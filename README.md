@@ -2,6 +2,7 @@
 
 <h3 align="center">A Young and Passionate front end developer from India</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=SatendraRaghav alt=SatendraRaghav/> </p>
+<img width="50%" align="right" alt="Github" src="https://imgur.com/sFZ80ow.gif" />
 
 
 - 💬 Ask me about **react, JavaScript and Html/CSS5**
