@@ -8,12 +8,13 @@
 - 💬 Ask me about **react, JavaScript and Html/CSS5**
 
 - 📫 Reach me at **raghavji2811@gmail.com**
+- 📫 My Resume: [View PDF](https://drive.google.com/file/d/12WEE4bIy8aSbeq_Yp_o7JRRjONdK_RZZ/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [SatendraRaghav](https://SatendraRaghav.github.io)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blog)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
