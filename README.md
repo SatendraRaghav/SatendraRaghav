@@ -10,7 +10,7 @@
 - 📫 Reach me at **raghavji2811@gmail.com**
 - 📫 My Resume: [View PDF](https://drive.google.com/file/d/12WEE4bIy8aSbeq_Yp_o7JRRjONdK_RZZ/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [SatendraRaghav](https://SatendraRaghav.github.io)
+- 👨‍💻 All of my projects are available at [SatendraRaghav](https://satendra-raghav-portfolio.netlify.app/)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
